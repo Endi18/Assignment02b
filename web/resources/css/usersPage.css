@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.top-part{
+    border-bottom: 1px solid #716052;
+    width:100%;
+    
+}
+
+h1{
+    border-bottom: 1px solid #716052;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.left-panel, .right-panel, .middle-panel{
+    border-bottom: 1px solid transparent;
+    display: block;
+    height: 300px;
+}
+
+.form-control{
+    width:150px;
+}
+
+.filters *{
+    margin:5px;
+}
+
+.books-top{
+    border : 1px solid black;
+    margin-left: 50%;
+}
